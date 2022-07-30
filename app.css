@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    /* justify-content: space-evenly; */
+    padding: 12px 16px;
+    background-color: blue;
+    color: white;
+}
+
+.logo {
+    padding-right: 600px;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+    padding-right: 100px;
+}
+
+
+/* .d-none {
+    display: none;
+}
+
+.v-none {
+    visibility: hidden;
+} */
